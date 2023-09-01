@@ -1,0 +1,25 @@
+div{
+
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+
+    border: 10px solid green;
+}
+
+.com_border_box{
+    background-color: aquamarine;
+    box-sizing: border-box;
+
+    
+
+}
+
+.sem_border_box{
+    background-color: brown;
+
+    /*  Sem border box ele vai somar a Largura +  padding esquerdo + padding direito + border esquerda + border direita = largura total do elemento 
+    
+    100 + 10 + 10  + 10 + 10 = 140
+    */
+}

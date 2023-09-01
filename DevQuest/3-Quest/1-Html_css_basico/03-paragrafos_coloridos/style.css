@@ -1,0 +1,16 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.primeiro_paragrafo{
+    background-color: #F5F5F5;
+
+}
+
+.segundo_paragrafo{
+    background-color: #F0CCE2;
+
+}
